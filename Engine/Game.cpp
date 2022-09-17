@@ -164,3 +164,6 @@ void Game::ComposeFrame()
 		SpriteCodex::DrawTitle( 290,225,gfx );
 	}
 }
+
+//I do not understand a single thing in here
+//life of a programmer is fine
